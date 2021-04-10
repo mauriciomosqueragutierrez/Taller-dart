@@ -101,6 +101,6 @@ void main() {
   traslation['gray'] = "gris";
 
   traslation[llave]="negro";
-  traslation["black"]="negro-negro";
+  traslation['black']="negro-negro";
   print(traslation);
   }
